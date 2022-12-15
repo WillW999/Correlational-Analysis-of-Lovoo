@@ -1,30 +1,31 @@
-<h1>Supervised ML Spam Email Classifier</h1>
+<h1>Correlational Analysis of Lovoo</h1>
 
 <h2>Description</h2>
-Using a dateset of spam and non spam emails I construct a supervised machine learning binary classifier that is able to detect spam emails at 93% accuracy. 
+Using an open but anonymous dataset of "Lovoo" dating app users I ran a correlational analysis to see what quantifiable attributes would lead to extra views and likes of a profile. 
 <br />
 
 
 <h2>Environment and Packages Used</h2>
 
-- <b>DataBricks</b>
+- <b>Jupyter Notebook</b>
 - <b>Pandas</b> 
-- <b>Pyspark</b>
-
+- <b>Numpy</b>
+- <b>Scipi</b> 
+- <b>Numpy</b>
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Creation of schema and first look at dataset: <br/>
-<img src="https://i.imgur.com/lfmMXWV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Importing Libraries: <br/>
+<img src="https://i.imgur.com/O28c0nf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Importing pyspark and data preperation:  <br/>
-<img src="https://i.imgur.com/24fT9Ns.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Initial pairplot analyis:  <br/>
+<img src="https://i.imgur.com/YKlEKE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Logistic Regression Model and feature weights: <br/>
-<img src="https://i.imgur.com/4CBUzOP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Visualization of the correlation between likes and profile views when having vip: <br/>
+<img src="https://i.imgur.com/sO1KlSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Using training data to fit model for test data:  <br/>
