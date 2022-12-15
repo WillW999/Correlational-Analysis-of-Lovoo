@@ -28,20 +28,12 @@ Visualization of the correlation between likes and profile views when having vip
 <img src="https://i.imgur.com/sO1KlSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Using training data to fit model for test data:  <br/>
-<img src="https://i.imgur.com/jc79pom.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Visualization of the correlation between number of pictures and profile likes:  <br/>
+<img src="https://i.imgur.com/7hYwheA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-5-fold crossvalidator on test data:  <br/>
-<img src="https://i.imgur.com/Kjfzwpg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Creation of decision tree:  <br/>
-<img src="https://i.imgur.com/CqCTL5y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Accuracy metrics:  <br/>
-<img src="https://i.imgur.com/uOlG0Ae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Full correlation map between attributes (showing that being verified is much more important than vip!):  <br/>
+<img src="https://i.imgur.com/jwKcI4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
